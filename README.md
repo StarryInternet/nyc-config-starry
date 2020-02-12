@@ -10,7 +10,7 @@ Starry's sharable nyc config.
     "nyc-config-starry": "<current version>"
   },
   "nyc": {
-    "extends": "nyc-config-starry"
+    "extends": "@starryinternet/nyc-config-starry"
   }
 }
 ```
