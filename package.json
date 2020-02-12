@@ -1,5 +1,5 @@
 {
-  "name": "nyc-config-starry",
+  "name": "@starryinternet/nyc-config-starry",
   "version": "1.0.0",
   "description": "Starry's sharable nyc config",
   "license": "MIT",
